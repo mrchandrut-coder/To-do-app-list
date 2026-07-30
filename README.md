@@ -30,11 +30,12 @@ A simple and responsive To-Do List web application that helps users manage daily
 
 1. Clone the repository:
    
-   git clone https://github.com/YOUR_USERNAME/To-Do-List.git
+   git clone
+    https://mrchandrut-coder.github.io/To-do-app-list/
 
-2. Open the project folder.
+3. Open the project folder.
 
-3. Open "index.html" in your browser.
+4. Open "index.html" in your browser.
 
 🎯 Future Improvements
 
